@@ -23,4 +23,4 @@ http://127.0.0.1:8000/personas/Lucinda
 
 It should look like this:
 
-[lucinda](lucinda.png)
+![lucinda](lucinda.png)
